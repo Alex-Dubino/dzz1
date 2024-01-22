@@ -1,0 +1,78 @@
+{
+  "burgers": [
+    {
+      "img": "./burgerCards1.png ",
+      "price": "689₽",
+      "title": "Мясная бомба",
+      "massa": "520г",
+      "id": "1",
+      "confCost": 689,
+      "count": 1,
+      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "sostav": ["Пшеничная булочка", "Котлета из говядины", "Красный лук", "Листья салата", "Соус горчичный"]
+    },
+    {
+      "img": "./burgerCards2.png ",
+      "price": "550₽",
+      "title": "Супер сырный",
+      "massa": "512г",
+      "id": "2",
+      "confCost": 550,
+      "count": 1,
+      "description": "Заполняется...",
+      "sostav": []
+    },
+    {
+      "img": "./burgerCards3.png ",
+      "price": "639₽",
+      "title": "Сытный",
+      "massa": "580г",
+      "id": "3",
+      "confCost": 639,
+      "count": 1,
+      "description": "Заполняется...",
+      "sostav": []
+    },
+    {
+      "img": "./burgerCards4.png ",
+      "price": "480₽",
+      "title": "Тяжелый удар",
+      "massa": "470г",
+      "id": "4",
+      "confCost": 480,
+      "count": 1,
+      "description": "Заполняется...",
+      "sostav": []
+    },
+    {
+      "img": "./burgerCards5.png ",
+      "price": "450₽",
+      "title": "Вечная классика",
+      "massa": "450г",
+      "id": "5",
+      "confCost": 450,
+      "count": 1,
+      "description": "Заполняется...",
+      "sostav": []
+    },
+    {
+      "img": "./burgerCards6.png ",
+      "price": "560₽",
+      "title": "Итальянский",
+      "massa": "510г",
+      "id": "6",
+      "confCost": 560,
+      "count": 1,
+      "description": "Заполняется...",
+      "sostav": []
+    }
+  ],
+  "snaks": [],
+  "hotDog": [],
+  "combo": [],
+  "sawarma": [],
+  "pizza": [],
+  "wok": [],
+  "desserts": [],
+  "sauces": []
+}
